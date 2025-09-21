@@ -5,4 +5,4 @@ try:
   else:
     print(f'{year}不是闰年')
 except ValueError:
-  print('请输入正确的年份')
+  print('输入错误')
